@@ -3,7 +3,7 @@
 This is a short python script to calculate volume of landslides when using ArcGIS.
 
 **Requirements**
-Spatial Analyst extension
+Spatial Analyst extension//
 A good dataset to have fun with
 
 **Rationale**
